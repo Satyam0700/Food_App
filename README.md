@@ -2,7 +2,7 @@
 
 ### https://expo.dev/@satyam_kumar/React_native_app?
 
-![Screenshot_2023-04-20-13-40-30-091_host exp exponent](https://user-images.githubusercontent.com/114215415/233303848-577c1cdb-eca7-4bd5-95e1-a53cfdddb3d1.jpg)
+### ![Screenshot_2023-04-20-13-40-30-091_host exp exponent](https://user-images.githubusercontent.com/114215415/233303848-577c1cdb-eca7-4bd5-95e1-a53cfdddb3d1.jpg)
 ![Screenshot_2023-04-20-13-41-22-354_host exp exponent](https://user-images.githubusercontent.com/114215415/233303874-9358e3a2-b504-4bf5-8409-3a5b36c13d6f.jpg)
 ![Screenshot_2023-04-20-13-41-36-338_host exp exponent](https://user-images.githubusercontent.com/114215415/233303892-c2038e0f-953a-4757-ae96-2e3557dfed50.jpg)
 ![Screenshot_2023-04-20-13-41-52-751_host exp exponent](https://user-images.githubusercontent.com/114215415/233303909-5f6ba7e2-827f-491a-be58-39474c115b1d.jpg)
